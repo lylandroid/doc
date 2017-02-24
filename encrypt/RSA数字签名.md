@@ -195,7 +195,7 @@ public class TestDigit {
 ```
 
 
-3. android验证例子
+2. Android验证例子
 
 ```java
 

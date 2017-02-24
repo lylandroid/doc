@@ -196,7 +196,8 @@ public class TestDigit {
 
 
 2. android验证例子
-```
+```java
+
 import android.util.Base64;
 
 import java.security.Key;
